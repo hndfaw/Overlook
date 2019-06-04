@@ -7,7 +7,7 @@ class RoomsDefault {
     this.date = date;
   }
 
-  roomsAvailable() {
+  noRoomsAvailable() {
     let allRoomsNumbers = this.roomsData.map(roomData => roomData.number)
     let roomsBooked = this.bookingsData.reduce((acc, booking) => {
       if (this.date === booking.date) {
@@ -22,11 +22,12 @@ class RoomsDefault {
       return acc;
     }, []);
     domUpdates.domRoomsAvailable(availableRooms.length);
+    console.log(availableRooms)
     return availableRooms
   }
 
   percentageRoomsOccupied() {
-    let roomsOccupied = ((this.roomsData.length - this.roomsAvailable().length) / this.roomsData.length) * 100
+    let roomsOccupied = ((this.roomsData.length - this.noRoomsAvailable().length) / this.roomsData.length) * 100
     domUpdates.domPercentageRoomsOccupied(roomsOccupied);
     return roomsOccupied;
   }
@@ -74,8 +75,9 @@ class RoomsDefault {
       }
       return acc;
     }, [])
-
-    return maxDates
+    let output = {numOfDays: obj.maxValue, dates: maxDates};
+    domUpdates.domMostPopularDay(output);
+    return output
   }
 
   leastPopularDay() {
@@ -86,10 +88,10 @@ class RoomsDefault {
       }
       return acc;
     }, [])
-
-    return leastDates
+    let output = {numOfDays: obj.minValue, dates: leastDates};
+    domUpdates.domLeastPopularDay(output);
+    return output
   }
-
 }
 
 export default RoomsDefault;
