@@ -8,8 +8,9 @@ Hindreen F. Abdullah ([hndfaw](https://github.com/hndfaw))
 
 ## Project Screenshots
 
-Home page:
 
+Home page:
+![Home page: scroll up to see more...](https://github.com/hndfaw/webpack-starter-kit/blob/master/src/images/overlook-home-page.gif)
 ![Desktop layout](https://github.com/hndfaw/webpack-starter-kit/blob/master/src/images/overlook-home.png)
 
 
