@@ -10,7 +10,7 @@ Hindreen F. Abdullah ([hndfaw](https://github.com/hndfaw))
 
 
 Home page:
-![Home page: scroll up to see more...](https://github.com/hndfaw/webpack-starter-kit/blob/master/src/images/overlook-home-page.gif)
+![Home page: scroll up to see more...](https://github.com/hndfaw/webpack-starter-kit/blob/master/src/images/overlook.gif)
 ![Desktop layout](https://github.com/hndfaw/webpack-starter-kit/blob/master/src/images/overlook-home.png)
 
 
