@@ -6,11 +6,17 @@ Overlook is the last project in Mod 2 of the Front End Engineering program at th
 ## Authors
 Hindreen F. Abdullah ([hndfaw](https://github.com/hndfaw))
 
-## Project Screenshots
+## Project Quick Demo and Screenshots
 
+
+### Quick Demo:
+
+![Home page: scroll up to see more...](https://github.com/hndfaw/webpack-starter-kit/blob/master/src/images/overlook.gif)
+
+### Screenshots:
 
 Home page:
-![Home page: scroll up to see more...](https://github.com/hndfaw/webpack-starter-kit/blob/master/src/images/overlook.gif)
+
 ![Desktop layout](https://github.com/hndfaw/webpack-starter-kit/blob/master/src/images/overlook-home.png)
 
 
