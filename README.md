@@ -1,7 +1,7 @@
 # Overlook
 Overlook - Turing Mod 2 FEE solo project
 
-Overlook was the last project in Mod 2 of the Front End Engineering program at the Turing School of Software and Design. For this project, I used object-oriented programming (OOP) and fetched data from premade API.
+Overlook is the last project in Mod 2 of the Front End Engineering program at the Turing School of Software and Design. For this project, I used object-oriented programming (OOP) and fetched data from premade API.
 
 ## Author
 Hindreen Fawzi Abdullah
