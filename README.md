@@ -1,13 +1,13 @@
 # Overlook
 Overlook - Turing Mod 2 FEE solo project
 
-Overlook is the last project in Mod 2 of the Front End Engineering program at the Turing School of Software and Design. The authors is a student in the 1903 Cohort.
+Overlook was the last project in Mod 2 of the Front End Engineering program at the Turing School of Software and Design. For this project object-oriented programming (OOP) is used.
 
-## Authors
-Hindreen F. Abdullah ([hndfaw](https://github.com/hndfaw))
+## Author
+Hindreen Fawzi Abdullah
+
 
 ## Project Quick Demo and Screenshots
-
 
 ### Quick Demo:
 
