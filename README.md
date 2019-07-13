@@ -21,7 +21,7 @@ Hindreen Fawzi Abdullah
 
 ### Quick Demo:
 
-![Home page: scroll up to see more...](https://github.com/hndfaw/webpack-starter-kit/blob/master/src/images/overlook.gif)
+![Overlook quick demo](https://github.com/hndfaw/webpack-starter-kit/blob/master/src/images/overlook.gif)
 
 ### Screenshots:
 
