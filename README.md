@@ -1,5 +1,5 @@
 # Overlook
-Overlook - Turing Mod 2 FEE solo project
+Overlook - Turing School, Mod 2 FEE Solo Project
 
 Overlook is the last project in Mod 2 of the Front End Engineering program at the Turing School of Software and Design. For this project, I used object-oriented programming (OOP) and fetched data from premade API.
 
